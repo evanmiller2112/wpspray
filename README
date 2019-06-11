@@ -1,1 +1,3 @@
-wpspray.go -url=http://wordpress.local -usernames=usernames.list -passwords=passwords.list 
+Written for @DCAU7 DC-2 vulnhub VM. Only tested with Wordpress 4.7.10
+
+wpspray.go -url=http://wordpress.local -usernames=usernames.list -passwords=passwords.list O
