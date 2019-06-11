@@ -1,0 +1,1 @@
+wpspray.go -url=http://wordpress.local -usernames=usernames.list -passwords=passwords.list 
